@@ -18,4 +18,7 @@ Installation
 6)  Download Zend Framework (http://framework.zend.com) and extract the
     library folder to your library folder.
 
-7)  Access your project URL and go!
+7)  Replace "callbackUrl" in config.php with the path to your project
+    callback.php file.
+
+8)  Access your project URL and go!
