@@ -1,0 +1,21 @@
+Example code from "The Last Authentication System You Will Ever Write", done
+at php|tek 2011.
+
+Installation
+============
+
+1)  Extract files to a directory visible to your webserver.
+
+2)  Register your domain with http://developer.twitter.com.
+
+3)  Set your callback to http://[path-to-your-project]/callback.php
+
+4)  Note the consumer key and secret from twitter.com.  Add them to
+    their respective values in your config.php file.
+
+5)  Create a folder called "library" at the root of your project
+
+6)  Download Zend Framework (http://framework.zend.com) and extract the
+    library folder to your library folder.
+
+7)  Access your project URL and go!
